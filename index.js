@@ -38,7 +38,7 @@ function init() {
 
     inquirer.prompt(questions)
     .then(function (answers) {        
-        var svgFile = "egerev_CircleExample.svg";
+        var svgFile = "egerev_logo.svg";
         var sSvgOutput = generateSvgOutput(answers);
         writeToFile(svgFile, sSvgOutput);
         console.log("Generated " + svgFile);
