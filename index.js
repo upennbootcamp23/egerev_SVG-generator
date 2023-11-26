@@ -92,4 +92,3 @@ function generateSvgOutput(answers) {
     return  CImageBoxUser.render();
 }
 init();
-
