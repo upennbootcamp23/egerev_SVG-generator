@@ -11,7 +11,7 @@ This project was created in order to create high-quality SVG files.
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Link to example README](#readme)
+- [Link to example SVG](#svg)
 - [Link to video demo ](#demonstration)
 
 ## Installation
@@ -40,8 +40,13 @@ Other than that, I can safely say that the content of this project is my own, or
 ## License
 Please refer to the LICENSE in the repo.
 
-## README
-Because the README is not deployed on GitHub Pages, I am providing the link for an example README file.   <>
+## SVG
+Because the SVG file is not deployed on GitHub Pages, I am providing the link for an example SVG file.   <<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <polygon points="150,18 244,182 56,182" class="triangle" style="fill:orange" /> <text x = "150" y = "140" font-size = "40" text-anchor = "middle" fill = "red">WIL</text></svg>![egerev_logo](https://github.com/upennbootcamp23/egerev_SVG-generator/assets/143010411/b89c7baf-9a0f-4688-bbdb-5db0f4649db2)
+>
 
 ## Demonstration
-Because the README is not deployed on GitHub Pages, I am providing the link on how I created the README file. <>
+Because the SVG file is not deployed on GitHub Pages, I am providing the link on how I created the README file. <
+
+https://github.com/upennbootcamp23/egerev_SVG-generator/assets/143010411/3f048c24-7bab-4640-a0b4-5bfab9034fe6
+
+>
