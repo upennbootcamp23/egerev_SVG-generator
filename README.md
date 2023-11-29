@@ -1,6 +1,8 @@
 # Alex Egerev's README Generator Webpage
 
-[insert images here]
+![image](https://github.com/upennbootcamp23/egerev_SVG-generator/assets/143010411/7b3bc392-6a0c-40d3-86ad-c0543857c6e1)
+![image](https://github.com/upennbootcamp23/egerev_SVG-generator/assets/143010411/4adc4f88-3256-4731-a22e-54bdda35f62d)
+
 
 ## Description
 
