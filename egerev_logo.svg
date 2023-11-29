@@ -1,1 +1,1 @@
-<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <circle cx="150" cy="100" r="95" style="fill:asdfa" /> <text x = "150" y = "120" font-size = "50" text-anchor = "middle" fill = "duifh">lio</text></svg>
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <rect width="160" height="160" x="70" y="20" style="fill:red" /> <text x = "150" y = "120" font-size = "50" text-anchor = "middle" fill = "orange">SVG</text></svg>
